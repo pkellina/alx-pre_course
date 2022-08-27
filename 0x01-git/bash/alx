@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 something important
 =======
 something to conflict
+>>>>>>> update_script
+=======
+Cool, all my changes will be now part of the main branch, ready to be deployed
 >>>>>>> update_script
